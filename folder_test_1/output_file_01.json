@@ -1,5 +1,5 @@
 {
-  "thing": "$INPUT_DESTINATION_REPO",
+  "thing": "$DESTINATION_REPO",
   "other_thing": "some info",
-  "third_thing": "stuff@$INPUT_DESTINATION_REPO"
+  "third_thing": "stuff@$DESTINATION_REPO"
 }
